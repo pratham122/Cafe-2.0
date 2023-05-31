@@ -1,0 +1,162 @@
+body{
+    background-color: #fff8ea;
+}
+/* Manasi */
+.navbar {
+    opacity: 95%;
+}
+
+.navbar-brand {
+    font-family: "bree serif";
+    font-size: 2.5rem;
+}
+
+#title {
+    background-image: url("Images/Bg1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-link{
+    font-size: large;
+    margin: 0px 0.45rem;
+}
+.head-container {
+    padding: 5% 5% 0 5%;
+    height: 20rem;
+    width: 20rem;
+}
+
+.big-heading {
+    font-size: 4rem;
+    font-family: "righteous";
+    color: #ffffff;
+    margin-bottom: 0;
+}
+
+.title-img {
+    height: 700px;
+    width: 700px;
+}
+
+.Login-button {
+    margin: 0% 5% 5% 5%;
+    padding-bottom: 5%;
+}
+
+.btn {
+    margin: 0 0 1% 1%;
+}
+
+.menu-image {
+    border-radius: 100%;
+    margin: 19% 10% 4% 10%;
+    justify-content:center;
+}
+
+#Menu {
+    background-color: #A77979;
+    margin: 17% 0 5% 0;
+    padding: 5% 2%;
+    
+}
+
+.dish{
+    font-size: 1rem;
+    color: #fff8ea;
+    text-align: center;
+    padding: 7%;
+}
+/* My */
+.carousel-item{
+    padding: 7% 15%;
+}
+
+.carousel-inner{
+    background-color: #d0b8a8;
+}
+
+#review{
+    /* padding: 10% 0%;  */
+    margin: 20% 10%;
+    /* background-color: #d0b8a8; */
+    padding: 80px 0px 0px 0px ;
+    
+}
+h5{
+    font-weight: normal;
+    padding-top: 0.5rem;
+}
+
+.col{
+    background-color:#cacac1 ;
+    margin: 2% 2%;
+    font-size: medium;
+    min-height: 200px;
+    width: fit-content;
+    text-align: center;
+    border-radius: 15px 50px 30px;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.row{
+    margin: 5%;
+}
+
+.reviewpoints{
+    text-align: left;
+}
+
+#footer{
+    align-content: center;
+    height: 300px ;
+    background-color: #815B5B;
+    opacity: 80%;
+}
+.rowf{
+    background-color: #815B5B;
+    margin: auto 3px;
+    height: 30%;
+    /* align-content: ; */
+}
+.colf{
+    margin: 5px 0.5px;
+    
+}
+
+h2{
+    color: white;
+    font-size: larger;
+}
+
+.list{
+    color: rgb(214, 197, 197);
+    font-weight: bold;
+    text-align: left;
+    padding-left: 0px ;
+}
+
+.card {
+    border-radius: 1rem;
+}
+
+.menu-card {
+    background-color: #d0b8a8;
+    margin: 17% 0 17% 0;
+    padding: 2% 5% 2% 5%;
+}
+
+.menu-items {
+    padding: 2%;
+}
+
+.add-btn {
+    width: 10rem;
+    border-radius: 2rem;
+    float: right;
+}
+
+.card-img-top {
+    border-radius: 1rem 1rem 0 0;
+}
